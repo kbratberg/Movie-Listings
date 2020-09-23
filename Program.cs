@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Movie_Library
+namespace Movie_Listing
 {
     class Program
     {
